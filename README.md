@@ -1,2 +1,95 @@
-# .github
-Perfil publico de MEP MEP riders
+<div align="center">
+<picture>
+    <source srcset="https://imgur.com/5bYAzsb.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://imgur.com/Os03JoE.png" media="(prefers-color-scheme: light)">
+    <img src="https://imgur.com/Os03JoE.png" alt="Escudo UNAL" width="350px">
+</picture>
+
+<h3>AUTOMATIZACION DE PROCESOS DE MANUFACTURA</h3>
+
+<h1>Proyecto integrador</h1>
+
+<h2>Mep Mep Raideres</h2>
+
+<h5>Joan Sebastian Arcila <br>
+    Juan Sebastian Daleman Martinez<br>
+    Daniel Santiago Muñoz Bernal<br>
+    Maria Alejandra Pérez Petro<br>
+    Emma Carolina Sarmiento Cabarcas</h5>
+
+<h6>Universidad Nacional de Colombia<br>
+    Facultad de Ingeniería<br>
+    Departamento de Ingeniería Mecánica y Mecatrónica<br>
+    Bogotá, Colombia<br>
+    2025</h6>
+</div>
+
+
+<details>
+    <summary>🗂️ Tabla de Contenido</summary>
+
+<!-- TOC -->
+- [1. ¿Que es Mep Mep Raideres?](#1-que-es-mep-mep-raideres)
+  - [1.1.](#11)
+
+</details>
+
+<div align="center">
+<picture>
+    <source srcset="https://imgur.com/Q54gvNv.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://imgur.com/GAWEAAR" media="(prefers-color-scheme: light)">
+    <img src="https://imgur.com/GAWEAAR" alt="Logo Mep Mep Raiders" width="300px">
+</picture>
+</div>
+
+## 1. 🤔 ¿Que es Mep Mep Raideres?
+
+Mep Mep Raiders es un proyecto que combina automatización industrial, fabricación digital y software especializado para la mejora del proceso de manufactura de vehiculos eléctricos de dos ruedas especializados en patinetas eléctricas.
+
+### 1.1. 👥 ¿Quienes integran Mep Mep Raiders?
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center;">
+
+  <figure style="margin: 10px;">
+    <img src="URL_IMAGEN_1" alt="Joan Sebastian Arcila" style="width: 100px; height: 100px; border-radius: 50%;">
+    <figcaption>Joan Sebastian Arcila</figcaption>
+  </figure>
+
+  <figure style="margin: 10px;">
+    <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" style="width: 100px; height: 100px; border-radius: 50%;">
+    <figcaption>Juan Sebastian Daleman Martinez</figcaption>
+  </figure>
+
+  <figure style="margin: 10px;">
+    <img src="URL_IMAGEN_3" alt="Daniel Santiago Muñoz Bernal" style="width: 100px; height: 100px; border-radius: 50%;">
+    <figcaption>Daniel Santiago Muñoz Bernal</figcaption>
+  </figure>
+
+  <figure style="margin: 10px;">
+    <img src="https://imgur.com/kmYkCZE.png" alt="Maria Alejandra Pérez Petro" style="width: 100px; height: 100px; border-radius: 50%;">
+    <figcaption>Maria Alejandra Pérez Petro</figcaption>
+  </figure>
+
+  <figure style="margin: 10px;">
+    <img src="https://imgur.com/PbvQthL.png" alt="Emma Carolina Sarmiento Cabarcas" style="width: 100px; height: 100px; border-radius: 50%;">
+    <figcaption>Emma Carolina Sarmiento Cabarcas</figcaption>
+  </figure>
+
+</div>
+
+## 2. 🗃️ Documentación del proyecto
+
+- 🌐 [**Página web**]()
+- 🏢 [**Organización en github**](https://github.com/APM-2025-1)
+- 📁 [**Drive**](https://drive.google.com/drive/folders/1jodLiu_ruLzrdddjylT_wBacmvlO2wKx?usp=drive_link) (Acceso con correo de dominio UNAL)
+
+## 3. 🧩 Módulos del curso
+
+1. 🤖 [Automatización e industria 4.0](https://github.com/APM-2025-1/M1_Automatizacion_e_industria_4.0)
+2. 🏭 [Gestion de producción](https://github.com/APM-2025-1/M2_Gestion_de_produccion)
+3. 🗓️ [Planeación de proyecto](https://github.com/APM-2025-1/M3_Planeacion_de_proyecto)
+4. 💰 [Evaluación ecónomica de proyecto](https://github.com/APM-2025-1/M4_Evaluacion_economica_de_proyecto)
+5. 🦾 [Celdas de manufactura robotizadas](https://github.com/APM-2025-1/M5_Celdas_de_manufactura_robotizadas)
+6. 🖥️ [Virtualización de fábrica](https://github.com/APM-2025-1/M6_Virtualizacion_de_fabrica)
+7. 🧠 [Controladores industriales](https://github.com/APM-2025-1/M7_Controladores_industriales)
+8. 📡 [Sistema de supervisión SCADA](https://github.com/APM-2025-1/M8_Sistema_de_supervision_SCADA)
