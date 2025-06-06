@@ -29,8 +29,11 @@
     <summary>🗂️ Tabla de Contenido</summary>
 
 <!-- TOC -->
-- [1. ¿Que es Mep Mep Raideres?](#1-que-es-mep-mep-raideres)
-  - [1.1.](#11)
+- [1. 🤔 ¿Que es Mep Mep Raideres?](#1--que-es-mep-mep-raideres)
+  - [1.1. 👥 ¿Quienes integran Mep Mep Raiders?](#11--quienes-integran-mep-mep-raiders)
+- [2. 🗃️ Documentación del proyecto](#2-️-documentación-del-proyecto)
+- [3. 🧩 Módulos del curso](#3--módulos-del-curso)
+
 
 </details>
 
