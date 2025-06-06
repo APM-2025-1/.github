@@ -48,48 +48,51 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
 
 ### 1.1. 👥 ¿Quienes integran Mep Mep Raiders?
 
+<div align="center">
 <table>
   <tr>
-    <td style="text-align: center; padding: 10px;">
-      <img src="URL_IMAGEN_1" alt="Joan Sebastian Arcila" style="width: 100px; height: 100px; border-radius: 50%;">
+    <td align="center">
+      <img src="URL_IMAGEN_1" alt="Joan Sebastian Arcila" width="100px">
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td align="center">
       Joan Sebastian Arcila
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" style="width: 100px; height: 100px; border-radius: 50%;">
+    <td align="center">
+      <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" width="100px">
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td align="center">
       Juan Sebastian Daleman Martinez
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 10px;">
-      <img src="URL_IMAGEN_3" alt="Daniel Santiago Muñoz Bernal" style="width: 100px; height: 100px; border-radius: 50%;">
+    <td align="center">
+      <img src="URL_IMAGEN_3" alt="Daniel Santiago Muñoz Bernal" width="100px">
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td align="center">
       Daniel Santiago Muñoz Bernal
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://imgur.com/kmYkCZE.png" alt="Maria Alejandra Pérez Petro" style="width: 100px; height: 100px; border-radius: 50%;">
+    <td align="center">
+      <img src="https://imgur.com/kmYkCZE.png" alt="Maria Alejandra Pérez Petro" width="100px">
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td align="center">
       Maria Alejandra Pérez Petro
     </td>
   </tr>
   <tr>
-    <td style="text-align: center; padding: 10px;">
-      <img src="https://imgur.com/PbvQthL.png" alt="Emma Carolina Sarmiento Cabarcas" style="width: 100px; height: 100px; border-radius: 50%;">
+    <td align="center">
+      <img src="https://imgur.com/PbvQthL.png" alt="Emma Carolina Sarmiento Cabarcas" width="100px">
     </td>
-    <td style="text-align: center; padding: 10px;">
+    <td align="center">
       Emma Carolina Sarmiento Cabarcas
     </td>
   </tr>
 </table>
+</div>
+
 
 
 ## 2. 🗃️ Documentación del proyecto
