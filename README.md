@@ -55,7 +55,7 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
 <table>
   <tr>
     <td align="center">
-      <img src="https://imgur.com/r4YPN03.png" alt="Joan Sebastian Arcila" width="100px">
+      <img src="https://imgur.com/CrHPMwd.png" alt="Joan Sebastian Arcila" width="100px">
     </td>
     <td align="center">
       <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" width="100px" >
