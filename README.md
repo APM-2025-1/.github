@@ -48,34 +48,49 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
 
 ### 1.1. 👥 ¿Quienes integran Mep Mep Raiders?
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; text-align: center;">
+<table>
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="URL_IMAGEN_1" alt="Joan Sebastian Arcila" style="width: 100px; height: 100px; border-radius: 50%;">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      Joan Sebastian Arcila
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" style="width: 100px; height: 100px; border-radius: 50%;">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      Juan Sebastian Daleman Martinez
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="URL_IMAGEN_3" alt="Daniel Santiago Muñoz Bernal" style="width: 100px; height: 100px; border-radius: 50%;">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      Daniel Santiago Muñoz Bernal
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://imgur.com/kmYkCZE.png" alt="Maria Alejandra Pérez Petro" style="width: 100px; height: 100px; border-radius: 50%;">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      Maria Alejandra Pérez Petro
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://imgur.com/PbvQthL.png" alt="Emma Carolina Sarmiento Cabarcas" style="width: 100px; height: 100px; border-radius: 50%;">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      Emma Carolina Sarmiento Cabarcas
+    </td>
+  </tr>
+</table>
 
-  <figure style="margin: 10px;">
-    <img src="URL_IMAGEN_1" alt="Joan Sebastian Arcila" style="width: 100px; height: 100px; border-radius: 50%;">
-    <figcaption>Joan Sebastian Arcila</figcaption>
-  </figure>
-
-  <figure style="margin: 10px;">
-    <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" style="width: 100px; height: 100px; border-radius: 50%;">
-    <figcaption>Juan Sebastian Daleman Martinez</figcaption>
-  </figure>
-
-  <figure style="margin: 10px;">
-    <img src="URL_IMAGEN_3" alt="Daniel Santiago Muñoz Bernal" style="width: 100px; height: 100px; border-radius: 50%;">
-    <figcaption>Daniel Santiago Muñoz Bernal</figcaption>
-  </figure>
-
-  <figure style="margin: 10px;">
-    <img src="https://imgur.com/kmYkCZE.png" alt="Maria Alejandra Pérez Petro" style="width: 100px; height: 100px; border-radius: 50%;">
-    <figcaption>Maria Alejandra Pérez Petro</figcaption>
-  </figure>
-
-  <figure style="margin: 10px;">
-    <img src="https://imgur.com/PbvQthL.png" alt="Emma Carolina Sarmiento Cabarcas" style="width: 100px; height: 100px; border-radius: 50%;">
-    <figcaption>Emma Carolina Sarmiento Cabarcas</figcaption>
-  </figure>
-
-</div>
 
 ## 2. 🗃️ Documentación del proyecto
 
