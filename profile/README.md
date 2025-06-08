@@ -5,7 +5,7 @@
     <img src="https://imgur.com/Os03JoE.png" alt="Escudo UNAL" width="350px">
 </picture>
 
-<h3>AUTOMATIZACION DE PROCESOS DE MANUFACTURA</h3>
+<h3>AUTOMATIZACIÓN DE PROCESOS DE MANUFACTURA</h3>
 
 <h1>Proyecto integrador</h1>
 
@@ -55,7 +55,7 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
 <table>
   <tr>
     <td align="center">
-      <img src="https://imgur.com/CrHPMwd.png" alt="Joan Sebastian Arcila" width="100px">
+      <img src="https://imgur.com/CrHPMwd.png" alt="Joan Sebastian Arcila Cardozo" width="100px">
     </td>
     <td align="center">
       <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" width="100px" >
@@ -71,7 +71,7 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
     </td>
   </tr>
   <tr>
-    <td align="center">Joan Sebastian Arcila</td>
+    <td align="center">Joan Sebastian Arcila Cardozo</td>
     <td align="center">Juan Sebastian Daleman Martinez</td>
     <td align="center">Daniel Santiago Muñoz Bernal</td>
     <td align="center">Maria Alejandra Pérez Petro</td>
@@ -85,7 +85,7 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
 
 ## 2. 🗃️ Documentación del proyecto
 
-- 🌐 [**Página web**]()
+- 🌐 [**Página web**](https://apm-2025-1.github.io/Mep_Mep_Raiders_web/)
 - 🏢 [**Organización en github**](https://github.com/APM-2025-1)
 - 📁 [**Drive**](https://drive.google.com/drive/folders/1jodLiu_ruLzrdddjylT_wBacmvlO2wKx?usp=drive_link) (Acceso con correo de dominio UNAL)
 
