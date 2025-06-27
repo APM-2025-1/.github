@@ -58,7 +58,7 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
       <img src="https://imgur.com/CrHPMwd.png" alt="Joan Sebastian Arcila Cardozo" width="100px">
     </td>
     <td align="center">
-      <img src="https://imgur.com/S0GFJnR.png" alt="Juan Sebastian Daleman Martinez" width="100px" >
+      <img src="https://imgur.com/Ofql8Ii.png" alt="Juan Sebastian Daleman Martinez" width="100px" >
     </td>
     <td align="center">
       <img src="https://imgur.com/jJDkmhR.jpg" alt="Daniel Santiago Muñoz Bernal" width="100px">
@@ -67,7 +67,7 @@ Mep Mep Raiders es un proyecto que combina automatización industrial, fabricaci
       <img src="https://imgur.com/kmYkCZE.png" alt="Maria Alejandra Pérez Petro" width="100px">
     </td>
     <td align="center">
-      <img src="https://imgur.com/PbvQthL.png" alt="Emma Carolina Sarmiento Cabarcas" width="100px">
+      <img src="https://imgur.com/oJPkQS3.png" alt="Emma Carolina Sarmiento Cabarcas" width="100px">
     </td>
   </tr>
   <tr>
